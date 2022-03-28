@@ -1,7 +1,7 @@
-# 345-Design-Lab
+# Design Patterns Lab
 
-Mikayla Mount
+Mattheww Mandelbaum
 
 I pledge my Honor that I have abided by the Stevens Honor System. 
 
-Consists of Parts 1, 2 and 3 with their respective code files and screenshots of the terminal outputs.  
+All parts of the lab with screenshots of their corresponding outputs
